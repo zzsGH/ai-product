@@ -1,0 +1,4 @@
+[client]
+showErrorDetails = true
+toolbarMode = "viewer"
+showSidebarNavigation = false
